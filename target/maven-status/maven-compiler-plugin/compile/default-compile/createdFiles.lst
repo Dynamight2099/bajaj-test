@@ -1,0 +1,11 @@
+com\example\hiringsqlbot\config\AppProperties$SqlFiles.class
+com\example\hiringsqlbot\config\AppProperties.class
+com\example\hiringsqlbot\service\HiringFlowService.class
+com\example\hiringsqlbot\dto\GenerateWebhookRequest.class
+com\example\hiringsqlbot\config\AppConfig.class
+com\example\hiringsqlbot\runner\StartupRunner.class
+com\example\hiringsqlbot\config\AppProperties$User.class
+com\example\hiringsqlbot\HiringSqlBotApplication.class
+com\example\hiringsqlbot\config\AppProperties$Endpoints.class
+com\example\hiringsqlbot\dto\GenerateWebhookResponse.class
+com\example\hiringsqlbot\dto\SubmitFinalQueryRequest.class

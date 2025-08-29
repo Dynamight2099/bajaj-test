@@ -1,0 +1,17 @@
+app:
+  user:
+    name: "Zayan Zubair"
+    regNo: "22BCE1100"
+    email: "zayanzu@gmail.com"
+  endpoints:
+    base: "https://bfhldevapigw.healthrx.co.in"
+    generatePath: "/hiring/generateWebhook/JAVA"
+    fallbackSubmitPath: "/hiring/testWebhook/JAVA"
+  sql:
+    oddFile: "sql/question_odd.sql"
+    evenFile: "sql/question_even.sql"
+    outputFile: "final-query.sql"
+
+logging:
+  level:
+    root: INFO
